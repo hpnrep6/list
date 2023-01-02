@@ -1,5 +1,5 @@
-egg
-~~bacon~~
-seven
-short ribs
-
+* egg
+* ~~bacon~~
+* seven
+* short ribs
+* sausage
